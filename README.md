@@ -1,3 +1,3 @@
-# locator_learning
+# flutter_architecture_learning
 
 ## A flutter project to learn proper stacked architecture, locator (GetIt), auto_route
